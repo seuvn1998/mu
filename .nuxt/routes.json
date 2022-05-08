@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\NGUYENTRUNGKIEN\\\\Desktop\\\\sky - Copy\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "C:\\\\Users\\\\NGUYENTRUNGKIEN\\\\Desktop\\\\sky - Copy\\\\client\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_e1bb9578"
+      }
+    ],
+    "_name": "_40e2957e"
+  }
+]
